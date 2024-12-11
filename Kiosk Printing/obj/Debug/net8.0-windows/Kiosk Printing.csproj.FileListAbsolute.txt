@@ -1,0 +1,42 @@
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\Kiosk Printing.exe
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\Kiosk Printing.deps.json
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\Kiosk Printing.runtimeconfig.json
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\Kiosk Printing.dll
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\Kiosk Printing.pdb
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk Printing.csproj.AssemblyReference.cache
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk_Printing.Form1.resources
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk_Printing.Form2.resources
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk_Printing.Form3.resources
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk_Printing.Form4.resources
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk_Printing.Form5.resources
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk_Printing.Form6.resources
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk_Printing.Form7.resources
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk_Printing.Form8.resources
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk_Printing.Form9.resources
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk Printing.csproj.GenerateResource.cache
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk Printing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk Printing.AssemblyInfoInputs.cache
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk Printing.AssemblyInfo.cs
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk Printing.csproj.CoreCompileInputs.cache
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk Pr.2888EA8F.Up2Date
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk Printing.dll
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\refint\Kiosk Printing.dll
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk Printing.pdb
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk Printing.genruntimeconfig.cache
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\ref\Kiosk Printing.dll
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\obj\Debug\net8.0-windows\Kiosk_Printing.Properties.Resources.resources
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\Office.dll
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\Spire.Pdf.dll
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\milar\source\repos\Kiosk Printing\Kiosk Printing\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll

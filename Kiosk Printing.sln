@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiosk Printing", "Kiosk Printing\Kiosk Printing.csproj", "{DEC00586-0EA4-412D-9021-E8237181AB52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC00586-0EA4-412D-9021-E8237181AB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC00586-0EA4-412D-9021-E8237181AB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC00586-0EA4-412D-9021-E8237181AB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC00586-0EA4-412D-9021-E8237181AB52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {315D13A2-6A23-4218-93CB-2805C39433CD}
+	EndGlobalSection
+EndGlobal
